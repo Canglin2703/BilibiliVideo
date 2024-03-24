@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/[0-9]*/
+Output_file/
+
 # C extensions
 *.so
 
